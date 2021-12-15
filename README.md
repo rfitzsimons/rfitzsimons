@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @rfitzsimons
+- 👀 I’m interested in all types of innovative (digital/physical) product experiences that empower and inspire people.
+- 🌱 I’m a hard working currently making a career transition from product design & innovation consultancy sales to Data Analytics. Upskilling in Excel, SQL, R, Tableau 
+- 💞️ I’m looking to collaborate on anything related to data analytics i.e. using insights from data to improve product experience and business performance. Feel free to connect :)
+- 📫 How to reach me ...https://www.linkedin.com/in/ronanfitzsimons/
+
+<!---
+rfitzsimons/rfitzsimons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
