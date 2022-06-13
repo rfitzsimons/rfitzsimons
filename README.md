@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rfitzsimons
-- 👀 I’m interested in using data and insights to inform decisions that create engaging and innovative product experiences that empower and inspire people.
+- 👀 I’m interested in using data and insights to inform decisions leading to innovative product experiences that empower and inspire people.
 - 🌱 I’m a hard working professional currently making a career transition from professional services consultancy sales to Data Analytics. Having recently upskilled in Excel, SQL, Big Query, R Studio, R Shiny, Tableau...
 💞️ I’m open to collaborate on anything related to data analytics i.e. using insights from data to improve product experience and business performance. Feel free to connect :)
 - 📫 How to reach me ...https://www.linkedin.com/in/ronanfitzsimons/
